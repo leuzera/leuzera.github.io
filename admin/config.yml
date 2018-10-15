@@ -1,8 +1,8 @@
 backend:
   name: github
-  repo: leuzera/leuzera.github.io # Path to your GitHub repository
+  repo: you/you.github.io
   branch: master
-  base_url: https://api.netlify.com
+  site_domain: https://amazing-clarke-936762.netlify.com
 
 publish_mode: editorial_workflow
 media_folder: "static/images/uploads"
