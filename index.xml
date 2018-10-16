@@ -20,14 +20,5 @@
       <description>Testing testing</description>
     </item>
     
-    <item>
-      <title>First Post</title>
-      <link>http://leuzera.github.io/posts/first-post/</link>
-      <pubDate>Thu, 11 Oct 2018 19:01:57 +0000</pubDate>
-      
-      <guid>http://leuzera.github.io/posts/first-post/</guid>
-      <description>This is my first post.</description>
-    </item>
-    
   </channel>
 </rss>
