@@ -1,10 +1,7 @@
 backend:
-  name: git-gateway
-  accept_roles:
-    - admin
-    - writer
-  # repo: leuzera/website
-  # branch: master
+  name: github
+  repo: leuzera/website
+  branch: master
   site_domain: amazing-clarke-936762.netlify.com
   base_url: https://api.netlify.com
 
