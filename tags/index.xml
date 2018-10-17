@@ -6,9 +6,37 @@
     <description>Recent content in Tags on My Personal Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 16 Oct 2018 18:31:25 +0000</lastBuildDate>
     
 	<atom:link href="http://leuzera.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Help</title>
+      <link>http://leuzera.github.io/tags/help/</link>
+      <pubDate>Tue, 16 Oct 2018 18:31:25 +0000</pubDate>
+      
+      <guid>http://leuzera.github.io/tags/help/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://leuzera.github.io/tags/test/</link>
+      <pubDate>Tue, 16 Oct 2018 18:31:25 +0000</pubDate>
+      
+      <guid>http://leuzera.github.io/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workflow</title>
+      <link>http://leuzera.github.io/tags/workflow/</link>
+      <pubDate>Tue, 16 Oct 2018 18:31:25 +0000</pubDate>
+      
+      <guid>http://leuzera.github.io/tags/workflow/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
